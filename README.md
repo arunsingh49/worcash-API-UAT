@@ -1,2 +1,2 @@
-# workashAPI
-Workash REST APIs
+# worcash API
+Worcash REST API for AWS UAT server
